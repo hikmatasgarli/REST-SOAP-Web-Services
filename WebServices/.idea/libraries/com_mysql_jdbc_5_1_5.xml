@@ -1,0 +1,63 @@
+<component name="libraryTable">
+  <library name="com.mysql.jdbc_5.1.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/com.mysql.jdbc_5.1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/metro/samples" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/annotations/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/async/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/asyncprovider/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/asyncservice/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/audiostream/AudioStreamPlayer/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/audiostream/AudioStreamerApp/src/java" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/catalog/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/custom-tubes/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/dispatch/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/dual_binding/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/excelclient/service/src/java" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/excelclient/sts/src/java" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/fromjava-soap12/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/fromjava/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/fromjavahandler/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/fromwsdl-soap12/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/fromwsdl/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/fromwsdl_secure/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/fromwsdlhandler/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/inline-customize/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/large_upload/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/mime-large/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/mime/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/mtom-large/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/mtom-soap12/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/mtom/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/optional_webxml/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/pricequote/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/provider/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/restful/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/stateful/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/supplychain/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/ws-rm/javaone-2006-demo" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/ws-rm/max-concurrent-rm-sessions/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/ws-security/src/mcs" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/ws-security/src/saml_sv_certificate" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/ws-security/src/secure_attachments" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/ws-security/src/un_symmetric" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/ws-trust/basic/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/ws-trust/basic/src/fs" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/ws-trust/delegate/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/ws-trust/delegate/src/fs" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/ws-trust/interop/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/ws-trust/propagate/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/ws-trust/propagate/src/fs" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/ws-trust/runtime/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/ws-trust/runtime/src/fs" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/ws-trust/share/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/ws-trust/share/src/fs" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/ws-trust/validate/src" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/ws-trust/validate/src/fs" />
+      <root url="file://$PROJECT_DIR$/lib/metro/samples/wssc/src" />
+    </SOURCES>
+  </library>
+</component>
